@@ -1,0 +1,19 @@
+There's 6 images used.
+3 of them have links behind them; 2 are used for spacing and 1 is the one on the left
+http://i.imgur.com/oEtvFdv.png (Left)
+http://i.imgur.com/aJmBEpZ.png (First button)
+http://i.imgur.com/Mftyk3C.png (Space between first and second buttons)
+http://i.imgur.com/esb4eke.png (Second button)
+http://i.imgur.com/rmnT7kv.png (Space between second and third buttons)
+http://i.imgur.com/uPY3dEJ.png (Third button)
+
+I think the code might've been something as simple as
+[url=address][img]image address here[/img][/url]
+
+EDIT: Fixed the code after all this time, having noticed I lacked the [img] and [/img] tags. D'oh!
+
+
+-----------------------------------------------------
+[url=][img]http://i.imgur.com/K48LlMi.png[/img][/url]      
+[url=][img]http://i.imgur.com/Ur59vfh.png[/img][/url]
+[url=][img]http://i.imgur.com/Bqm7JlJ.png[/img][/url]
